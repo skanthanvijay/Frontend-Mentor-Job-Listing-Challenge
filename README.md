@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Site URL](https://your-live-site-url.com)
+- Live Site URL: [Site URL](https://skanthanvijay.github.io/Frontend-Mentor-Job-Listing-Challenge/)
 
 ## My process
 
